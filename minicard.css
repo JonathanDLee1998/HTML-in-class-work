@@ -1,0 +1,38 @@
+h1 {
+  color: rgb(33, 230, 33);
+}
+h2 {
+  font-size: x-large;
+}
+p {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+p:hover {
+  color: blueviolet;
+}
+
+body {
+  background-color: rgb(104, 134, 134);
+}
+.profile-card > h2 {
+  color: darkorange;
+}
+body {
+  padding: 300px;
+  padding-left: 100px;
+  margin: auto;
+  border-color: aquamarine;
+  background-image: url("");
+}
+.profile-card {
+  color: darkgreen;
+  border: 9px solid plum;
+  padding: 60px;
+  margin: 50px;
+}
+h2 {
+  border: 5px solid darkslateblue;
+  color: darkslateblue;
+}
